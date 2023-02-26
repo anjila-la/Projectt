@@ -134,7 +134,7 @@ include("fetch.php");
                         
                         echo "<div class = 'col-md-6 col-lg-4 col-xl-3 p-2 best'>
                         <div class = 'collection-img position-relative'>
-                            <a href='#'>
+                            <a href='details.php?pro_id=$pro_id'>
                                 <img src = '../admin/product_images/$pro_img' class = 'w-100'>
                             </a>
                         </div>
